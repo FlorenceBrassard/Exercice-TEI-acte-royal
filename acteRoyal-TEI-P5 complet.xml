@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Acte royal</title>
+                <author>inconnu, Noailles</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date/></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>                
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+            <charDecl><glyph xml:id="InNoailles"> 
+                <!-- Initiales stylisées de Noailles--> 
+                    </glyph>
+                </charDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2023-07-08T19:58:32Z</date><name/></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><date>Mai 1763.</date></p>
+            <p><add hand="Noailles">Ordre du roi. <g ref="#InNoailles"/></add></p>
+            <p>Le <persName><choice><abbr>S.</abbr><expan>sieur</expan></choice> Luthier</persName> demande si l’on éclairera <lb/> et chauffera le
+                    château de Marly le<lb/> voyage prochain comme dans les voyages <lb/>ordinaires.</p>
+            <p><add hand="Noailles">Le pavillon du roy comme<lb/> à l’ordinaire, mais l’on ne
+                    <lb/>donnera de bois d’arrivée à <lb/>personne. <g ref="#InNoailles"/></add></p>
+            <p>[stamp]</p>
+            <p>Si le concierge, les garçons du garde-meuble,<lb/> les <choice><abbr>S.</abbr><expan>sieurs</expan></choice>
+                    <persName>Boucheman</persName> et <persName>Lemoine</persName>, les <lb/>garçons du château, l’orloger, le garçon des<lb/> chiens et
+                    les porteurs seront chauffés<lb/> et éclairés.</p>
+            <p><add hand="Noailles">Le voyage étant comme<lb/> celui de Versailles, l’on n’est<lb/> obligé à rien, mais
+                on peut<lb/> leur donner quelque secours en<lb/> bois et lumières ; <choice>
+                    <abbr>mrs</abbr>
+                    <expan>messieurs</expan>                
+                </choice> <persName>Bouceman</persName><lb/> et <persName>Lemoine</persName>, oui sûrement. <g ref="#InNoailles"/></add></p>
+            <p>Si on éclairera les salles des gardes<lb/> de Votre Majesté, des gardes de<lb/> la Porte et des Cent Suisses. </p>
+            <p><add hand="Noailles">Oui, sans doute. <g ref="#InNoailles"/></add></p>
+            <p>Si les femmes de chambre de mesdames<lb/>qui logent hors du château seront chauffées<lb/> et éclairées. </p>
+            <p><add hand="Noailles">Oui, en observant la règle<lb/> la plus exacte. <g ref="#InNoailles"/></add></p>
+            <p>Si on donnera une bougie blanche par<lb/> jour au supérieur des
+                    cordeliers de<lb/> Noisy.</p>
+            <p><add hand="Noailles"><del>Oui</del> Non, une demie. <g ref="#InNoailles"/></add></p>
+            <p>Et si on donnera une bougie par<lb/> jour au vicaire de la
+                    paroisse qui dessert<lb/> la chapelle du commun.</p>
+            <p><add hand="Noailles">Non, mais la<lb/>valeur en argent. <g ref="#InNoailles"/></add></p>
+            <p><add hand="Noailles">Le roy chauffe et éclaire les conseillers<lb/>d’État à leur pied-à-terre qui est au 5 au commun. <g ref="#InNoailles"/>  </add></p>
+            <p><add hand="Noailles"><persName>Noailles</persName>.</add></p>
+            
+    
+            
+        </body>
+    </text>
+</TEI>
