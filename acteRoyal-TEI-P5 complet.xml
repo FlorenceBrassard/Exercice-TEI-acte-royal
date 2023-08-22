@@ -47,10 +47,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20230820211345958",
+	"id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml?place_annotation_20230820211345958",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-08-21T01:13:45.958Z",
-	"dcterms:modified": "2023-08-21T01:13:45.958Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/FlorenceBrassard",
 		"@type": [
@@ -61,9 +60,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20230820211345958#Target",
+		"@id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml?place_annotation_20230820211345958#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -74,7 +74,7 @@
 			"schema:softwareVersion": "3.2.2"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20230820211345958#Selector",
+			"@id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml?place_annotation_20230820211345958#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[3]/placeName"
 		}
@@ -125,10 +125,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230820212938309",
+	"id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml?person_annotation_20230820212938309",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-08-21T01:29:38.309Z",
-	"dcterms:modified": "2023-08-21T01:29:38.309Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/FlorenceBrassard",
 		"@type": [
@@ -139,9 +138,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230820212938309#Target",
+		"@id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml?person_annotation_20230820212938309#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -152,7 +152,7 @@
 			"schema:softwareVersion": "3.2.2"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230820212938309#Selector",
+			"@id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml?person_annotation_20230820212938309#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[17]/add/persName/persName"
 		}
@@ -204,10 +204,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20230820213038515",
+	"id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml?date_annotation_20230820213038515",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-08-21T01:30:38.515Z",
-	"dcterms:modified": "2023-08-21T01:30:38.515Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/FlorenceBrassard",
 		"@type": [
@@ -218,9 +217,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20230820213038515#Target",
+		"@id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml?date_annotation_20230820213038515#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -231,7 +231,7 @@
 			"schema:softwareVersion": "3.2.2"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20230820213038515#Selector",
+			"@id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml?date_annotation_20230820213038515#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p/date/date"
 		}
@@ -281,10 +281,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230820213212294",
+	"id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml?person_annotation_20230820213212294",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-08-21T01:32:12.294Z",
-	"dcterms:modified": "2023-08-21T01:32:12.294Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/FlorenceBrassard",
 		"@type": [
@@ -295,9 +294,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230820213212294#Target",
+		"@id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml?person_annotation_20230820213212294#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -308,7 +308,7 @@
 			"schema:softwareVersion": "3.2.2"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230820213212294#Selector",
+			"@id": "https://raw.githubusercontent.com/FlorenceBrassard/Exercice-TEI-acte-royal/main/acteRoyal-TEI-P5%20complet.xml?person_annotation_20230820213212294#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[2]/add/persName"
 		}
@@ -371,7 +371,7 @@
             <p>Et si on donnera une bougie par<lb/> jour au vicaire de la
                     paroisse qui dessert<lb/> la chapelle du commun.</p>
             <p><add hand="Noailles">Non, mais la<lb/>valeur en argent. <g ref="#InNoailles"/></add></p>
-            <p><add hand="Noailles">Le roy chauffe et éclaire les conseillers<lb/>d’État à leur pied-à-terre qui est au 5 au commun. <g ref="#InNoailles"/>  </add></p>
+            <p><add cert="high" evidence="internal" hand="Noailles" instant="unknown" place="top" precision="high" unit="cm" xml:space="default">Le roy chauffe et éclaire les conseillers<lb/>d’État à leur pied-à-terre qui est au 5 au commun. <g ref="#InNoailles"/>  </add></p>
             <p><add hand="Noailles"><persName><persName key="Noailles" ref="http://isni.org/isni/0000000074771888" cert="high" type="real">Noailles</persName></persName>.</add></p>
             
     
